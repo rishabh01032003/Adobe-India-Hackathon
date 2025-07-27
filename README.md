@@ -40,11 +40,10 @@ We avoid relying solely on font size by analyzing layout patterns and filtering 
 - json
 {
   "title": "Understanding AI",
-  "outline": [
+  "outline": 
     { "level": "H1", "text": "Introduction", "page": 1 },
     { "level": "H2", "text": "What is AI?", "page": 2 },
     { "level": "H3", "text": "History of AI", "page": 3 }
-  ]
 }
 
 
@@ -87,22 +86,21 @@ Refined text from each section
     "job_to_be_done": "Literature review on GNNs",
     "timestamp": "2025-07-21T12:30:00Z"
   },
-  "sections": [
+  "sections": 
     {
       "document": "doc1.pdf",
       "page": 4,
       "section_title": "GNN Methodologies Overview...",
       "importance_rank": 1
     }
-  ],
-  "sub_sections": [
+  
+  "sub_sections": 
     {
       "document": "doc1.pdf",
       "page": 4,
       "refined_text": "This section discusses different GNN models...",
       "importance_rank": 1
     }
-  ]
 }
 
 
